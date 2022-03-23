@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.898dae49.css",
+    "main.js": "/static/js/main.62be852b.js",
+    "static/js/787.1fee1fb8.chunk.js": "/static/js/787.1fee1fb8.chunk.js",
+    "static/media/pp1.jpeg": "/static/media/pp1.493b2b98cac22f65d03b.jpeg",
+    "static/media/Group 52.svg": "/static/media/Group 52.ab9c3e689b5b682b0552959aadca3073.svg",
+    "static/media/Group 28.svg": "/static/media/Group 28.f1f2c852fec90225842a4825cd837f11.svg",
+    "static/media/mailing.svg": "/static/media/mailing.cc7279e162c55ec7df4a4c40f369cb09.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/TradExpress.svg": "/static/media/TradExpress.9d65873c0bee694fd3b1f5ae2dbf942f.svg",
+    "static/media/Group 79.svg": "/static/media/Group 79.33aea75baa9e8ccc03704a6cdc5a21ac.svg",
+    "static/media/Group 69.svg": "/static/media/Group 69.78d0c39874f8d331b3c8323e733547a0.svg",
+    "static/media/Group 68.svg": "/static/media/Group 68.5c06c6d19597b3a812f000fcea7af1a1.svg",
+    "static/media/Group 8699.svg": "/static/media/Group 8699.5a9cd787a069126da85cee499d546795.svg",
+    "index.html": "/index.html",
+    "static/media/Icon awesome-check-circle.svg": "/static/media/Icon awesome-check-circle.fb2ed5781f05372cd41cfa5216c05366.svg",
+    "static/media/Union 1.svg": "/static/media/Union 1.be1e46cd344591859fe5e27eb8c840f3.svg",
+    "main.898dae49.css.map": "/static/css/main.898dae49.css.map",
+    "main.62be852b.js.map": "/static/js/main.62be852b.js.map",
+    "787.1fee1fb8.chunk.js.map": "/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898dae49.css",
+    "static/js/main.62be852b.js"
+  ]
+}
